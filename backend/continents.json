@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "634fb9d37f561457f3f8c90c"
+  },
+  "code": "NA",
+  "name": "North America",
+  "translation": [
+    {
+      "language": "french",
+      "name": "Amérique du nord"
+    },
+    {
+      "language": "german",
+      "name": "Nordamerika"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fbd5cc4e74e5a70237e60"
+  },
+  "code": "AF",
+  "name": "Africa",
+  "translation": [
+    {
+      "language": "french",
+      "name": "Afrique"
+    },
+    {
+      "language": "german",
+      "name": "Afrika"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fd06d4205c8dbd7883340"
+  },
+  "code": "OC",
+  "name": "Oceania",
+  "translation": [
+    {
+      "language": "french",
+      "name": "Océanie"
+    },
+    {
+      "language": "german",
+      "name": "Ozeanien"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fd0a24205c8dbd7883342"
+  },
+  "code": "AN",
+  "name": "Antarctica",
+  "translation": [
+    {
+      "language": "french",
+      "name": "Antarctique"
+    },
+    {
+      "language": "german",
+      "name": "Antarktis"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fd0c64205c8dbd7883344"
+  },
+  "code": "AS",
+  "name": "Asia",
+  "translation": [
+    {
+      "language": "french",
+      "name": "Asie"
+    },
+    {
+      "language": "german",
+      "name": "Asien"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fd0f04205c8dbd7883346"
+  },
+  "code": "EU",
+  "name": "Europe",
+  "translation": [
+    {
+      "language": "french",
+      "name": "Europe"
+    },
+    {
+      "language": "german",
+      "name": "Europa"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fd1174205c8dbd7883348"
+  },
+  "code": "SA",
+  "name": "South America",
+  "translation": [
+    {
+      "language": "french",
+      "name": "Amérique du Sud"
+    },
+    {
+      "language": "german",
+      "name": "Südamerika"
+    }
+  ],
+  "__v": 0
+}]
